@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListeApp</string>
+    <string name="add_button">Ajouter</string>
+    <string name="task_name">Nom de la tâche</string>
+    <string name="task_description">Description de la tâche</string>
+    <string name="add_task">Ajouter une tâche</string>
+    <string name="cancel">Annuler</string>
+    <string name="validate">Valider</string>
+    <string name="task_added">Nouvelle tâche ajoutée !</string>
+</resources>
